@@ -1,15 +1,21 @@
-### Hi there 👋
+# Hello there! 👋
 
+My name is Constantin, and I'm a Front End Developer with experience in building web applications.
 
-My name is Constantin. I am a Front End Developer with experience in developing web applications
+## About Me
 
-About me:
-  I am 19 years old, of which 3 years are dedicated to development.
-  In the comment, I advance my knowledge of React.js and Node.js by creating my own projects, which will appear in my portfolio along the way.
+I'm 19 years old, and I've been dedicated to development for the past 3 years. I continuously expand my knowledge of React.js and Node.js by working on personal projects, which will be showcased in my portfolio.
 
+## Languages and Tools
 
-Languages and Tools :
-  HTML, CSS, PHP, Laravel, JavaScript, TypeScript, React, Node, Next, Express
-  SASS, CSS modules, Tailwind, Redux
-  MySQL, PostgreSQL, Git
-  
+- HTML
+- CSS (including SASS and CSS modules)
+- JavaScript (including TypeScript)
+- React (including Redux)
+- Node.js (including Express and Next.js)
+- PHP (including Laravel)
+- MySQL
+- PostgreSQL
+- Git
+- Tailwind CSS
+
