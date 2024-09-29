@@ -13,13 +13,14 @@ I continuously expand my knowledge of React.js and Node.js by working on persona
 ## Languages and Tools
 
 - HTML
-- CSS (including SASS and CSS modules)
 - JavaScript (including TypeScript)
 - React (including Redux)
 - Node.js (including Express and Next.js)
 - PHP (including Laravel)
+- CSS (including SASS and CSS modules)
+- Tailwind CSS
 - MySQL
 - PostgreSQL
+- MongoDB
 - Git
-- Tailwind CSS
 
