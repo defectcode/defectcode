@@ -15,7 +15,7 @@ I continuously expand my knowledge of React.js and Node.js by working on persona
 - HTML
 - JavaScript (including TypeScript)
 - React (including Redux)
-- Node.js (including Express and Next.js)
+- Node.js (including Express and Nest.js)
 - PHP (including Laravel)
 - CSS (including SASS and CSS modules)
 - Tailwind CSS
